@@ -2,10 +2,10 @@
  * Created by Will on 02/09/2014.
  */
 object TwitterCredentials{
-  val consumerKey = "pOzBeodg9bgeTAIjqX2vs4zhF"
-  val consumerSecret = "hZoU6PbBfSLjONOn4HOiSj3hOrHVhl6t9tpx33Uik5JVPDAUPc"
-  val accessToken = "23248795-8jhrzoq9L6hFomnqSA8HvnmXXUdWoOuuhDLBNzyHM"
-  val accessTokenSecret = "AdUphjDCgwKTd4q0rjRKbmsBDIT9yGmE6NFuVZbadq9J6"
+  val consumerKey = "KEYKEYKEYKEYKEYKEYKEY"
+  val consumerSecret = "KEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEY"
+  val accessToken = "KEYKEYKEY-KEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEY"
+  val accessTokenSecret = "KEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEYKEY"
 
   def setCredentials(): Unit =
   {
