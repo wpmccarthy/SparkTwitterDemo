@@ -1,0 +1,7 @@
+run-main gameinsight
+run-main GetTagStats gameinsight
+run-main GetTagStats "gameinsight"
+run-main GetTagStats "#gameinsight"
+run-main GetTagStats "gameinsight"
+run-main LiveTweetSearch "iPhone"
+run-main GetTagStats "iPhone6"

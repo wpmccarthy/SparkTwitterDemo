@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparktwitterdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/sparktwitterdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparktwitterdemo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparktwitterdemo-build.iml" />
+    </modules>
+  </component>
+</project>
+
